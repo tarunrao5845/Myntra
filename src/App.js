@@ -1,9 +1,10 @@
 import React from "react";
 
-import './components/App.css';
+import './App.css';
 import NavBar from './components/navbar';
 import Section1 from './components/section1'
 import Section2 from './components/section2'
+import Footer from './components/Footer'
 
 
 function App() {
@@ -12,9 +13,13 @@ function App() {
    <NavBar/>  
   
    <Section1/>
-   
-   <Section2/> 
+
+ <Section2/> 
   
+  <div className="container">
+  <Footer/>
+  </div>
+ 
    </>
   );
 }
