@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Myntra/precache-manifest.7cc9a3aec0dc283edfb31735e3b6890e.js"
+  "/Myntra/precache-manifest.9ee1cf24495a51a2b821f0ec7ed91dcf.js"
 );
 
 workbox.clientsClaim();
