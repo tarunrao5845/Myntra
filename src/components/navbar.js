@@ -1080,38 +1080,18 @@ export default function NavBar() {
                 </button>
                 <div className="collapse p-3" id="orders-collapse">
                   <ul className="btn-toggle-nav list-unstyled bold pb-1 ">
-                    <li>
-                      <a
-                        href="/"
-                        className="link-dark d-inline-flex text-decoration-none rounded"
-                      >
-                        New
-                      </a>
-                    </li>
-                    <li>
-                      <a
-                        href="/"
-                        className="link-dark d-inline-flex text-decoration-none rounded"
-                      >
-                        Processed
-                      </a>
-                    </li>
-                    <li>
-                      <a
-                        href="/"
-                        className="link-dark d-inline-flex text-decoration-none rounded"
-                      >
-                        Shipped
-                      </a>
-                    </li>
-                    <li>
-                      <a
-                        href="/"
-                        className="link-dark d-inline-flex text-decoration-none rounded"
-                      >
-                        Returned
-                      </a>
-                    </li>
+                      <li className="li">
+                            <a href="/">New</a>
+                          </li>
+                      <li className="li">
+                            <a href="/">Processed</a>
+                          </li>
+                      <li className="li">
+                            <a href="/">Shipped</a>
+                          </li>
+                      <li className="li">
+                            <a href="/">Returned</a>
+                          </li>
                   </ul>
                 </div>
               </li>

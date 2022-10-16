@@ -3,8 +3,8 @@ import React from 'react'
 
 export default function Section2() {
   return (
-    <div>
-   <div className="row row-cols-12  px-0  ">
+    <div className='container-fluid'>
+   <div className="row row-cols-2 py-5 row-cols-sm-6 row-cols-md-8 g-5 ">
   <div className="col " >
     <div className="card shadow-sm">
      <img src="https://assets.myntassets.com/w_81,c_limit,fl_progressive,dpr_2.0/assets/images/2022/9/29/ed7a9c6f-46fa-406a-ae55-f4e106ecaddb1664446228715-_Kurtas_for_day_festivities_UNDER_799_-1999-_from_Vishudh-_Global_Desi_-_more.jpg"  alt="" />
@@ -45,6 +45,26 @@ export default function Section2() {
      <img src="https://assets.myntassets.com/w_81,c_limit,fl_progressive,dpr_2.0/assets/images/2022/9/29/56b9c750-6a59-4034-9674-1a0a3c2fec881664446228829-Boat_Airdopes_STARTING_-2990-999.jpg"  alt="" />
     </div>
   </div>
+  <div className="col " >
+    <div className="card shadow-sm">
+     <img src="https://assets.myntassets.com/w_81,c_limit,fl_progressive,dpr_2.0/assets/images/2022/9/29/ed7a9c6f-46fa-406a-ae55-f4e106ecaddb1664446228715-_Kurtas_for_day_festivities_UNDER_799_-1999-_from_Vishudh-_Global_Desi_-_more.jpg"  alt="" />
+    </div>
+  </div>
+  <div className="col  ">
+    <div className="card shadow-sm">
+     <img src="https://assets.myntassets.com/w_81,c_limit,fl_progressive,dpr_2.0/assets/images/2022/9/29/d088f69f-54eb-478d-8e2b-8dc649feb1801664446228736-adi-rbk_30-50.jpg" alt="" />
+    </div>
+  </div>
+  <div className="col  ">
+    <div className="card shadow-sm">
+     <img src="https://assets.myntassets.com/w_81,c_limit,fl_progressive,dpr_2.0/assets/images/2022/9/29/f8bf1055-cc1b-4eb7-914c-c1610c39deab1664446228814-Best_of_Kids_International_Brands_-_Min_50_OFF.jpg" alt="" />
+    </div>
+  </div>
+  <div className="col  ">
+    <div className="card shadow-sm">
+     <img src="https://assets.myntassets.com/w_81,c_limit,fl_progressive,dpr_2.0/assets/images/2022/9/29/a5aa15cc-ff06-499c-8d94-344c188598d31664446228723-_Premium_Traditional_wear_-_60-80_OFF_from_Soch_-_Biba_-_more.jpg" alt="" />
+    </div>
+  </div>
     </div>
 
     {/*                                             budget buys <img src="" alt="" />                                       */}
@@ -55,7 +75,7 @@ export default function Section2() {
     className='my-3'
     alt="" />
 
-<div className="row row-col-12 ">
+<div className="row row-cols-2 py-5 row-cols-sm-4 row-cols-md-8 g-5 ">
   <div className="col " >
     <div className="card shadow-sm">
      <img src="https://assets.myntassets.com/w_81,c_limit,fl_progressive,dpr_2.0/assets/images/2022/9/28/c5824af9-d9fa-482e-8469-7d66b55918fd1664350183554-Activewear_Unisex.jpg"  alt="" />
@@ -107,7 +127,7 @@ export default function Section2() {
     className='my-3'
     alt="" />
 
-<div className="row row-cols-6  row-cols-sm-6 row-cols-md-6  border-0">
+<div className="row row-cols-3  row-cols-sm-6 row-cols-md-6  border-0">
   <div className="col " >
     <div className="card shadow-sm">
      <img src="https://assets.myntassets.com/w_98,c_limit,fl_progressive,dpr_2.0/assets/images/2022/9/27/f67b7b8b-84e9-4fe9-af52-8cee433a9fd81664274578849-Roadster_1.jpg"  alt="" />

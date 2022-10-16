@@ -43,7 +43,8 @@ export default function Section1() {
  
   <img className='my-2' src={img} width="100%" alt="" />
   
-{/*                                                         OMG image                                                           */}
+{/*                                                         OMG image  
+                                                         */}
 <div className="container">
 <img src={Omg} className="item-center mx-3 mt-2 " width="96%"  alt="" />
 </div>

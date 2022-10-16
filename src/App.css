@@ -165,10 +165,7 @@ h5{
   font-size: 14px;
   font-weight: 600;
 }
-.boxes{
-  display: flex;
-  margin: auto;
-}
+
 .lif{
   list-style: none;
 }

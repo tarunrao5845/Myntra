@@ -10,18 +10,16 @@ import Footer from './components/Footer'
 function App() {
   return (
    <>
-   <NavBar/>  
-  
-   <Section1/>
 
+ <NavBar/>  
+
+ <Section1/>
+ 
  <Section2/> 
   
-  <div className="container">
   <Footer/>
-  </div>
- 
+
    </>
-  );
-}
+  )}
 
 export default App;
